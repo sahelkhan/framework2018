@@ -1,5 +1,5 @@
 
-public class config {
+public class myFirstTest extends config {
 
 	public static void main(String[] args) {
 		//do all the configure

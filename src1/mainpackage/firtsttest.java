@@ -7,6 +7,8 @@ public class firtsttest extends Config {
 		 public void testingFirstName() {
          
 			System.out.println(testingfirstname);
+			
+			drivers.findelement(xpath).sendkeys(value);
 
 	}
 
